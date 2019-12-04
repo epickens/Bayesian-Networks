@@ -3,7 +3,7 @@ Some work I did on Bayesian Networks for my AI final
 
 A few notes on how to use the files associated with this project:
 
-+ I suggest you read the paper associated with this project before diving into the code
++ I suggest you read the paper associated with this project before diving into the code (AI_Final.pdf)
     + The context provided by the paper is esspecially helpful we looking through the Bayes Net files
 + You'll need to install the pgmpy package to run the Bayes Net files (v 0.1.7)
 + You may also need to install wrapt v 1.11.2
