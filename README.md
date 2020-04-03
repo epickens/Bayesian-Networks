@@ -21,3 +21,4 @@ A few notes on how to use the files associated with this project:
 + The make_paper_pgms.py file was used to make graphics for the paper
     + The daft package is required to run it
 + The naive_bayes_pgm.py file runs a naive Bayes model built using pgmpy
++ A writeup of this work can be found here: https://epickens.github.io/content.html
